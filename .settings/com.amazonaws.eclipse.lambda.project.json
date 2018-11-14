@@ -1,0 +1,18 @@
+{
+  "lastDeploymentHandler": "com.amazonaws.lambda.demo.LambdaFunctionHandler",
+  "lastInvokeHandler": null,
+  "handlerMetadata": {
+    "com.amazonaws.lambda.demo.LambdaFunctionHandler": {
+      "deployment": {
+        "regionId": "us-east-1",
+        "awsLambdaFunctionName": "MyFunction",
+        "awsIamRoleName": "aws-serverless-repository-hello-wor-helloworldRole-11OTI8SWB7063",
+        "awsS3BucketName": "lambda-function-bucket-us-east-1-1541549863368",
+        "memory": 0,
+        "timeout": 0
+      },
+      "invoke": null
+    }
+  },
+  "lastInvokedHandlerDeployed": false
+}
